@@ -50,3 +50,5 @@ def solution(A):
 
     return reversion_count
 
+
+
